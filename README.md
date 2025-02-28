@@ -9,7 +9,8 @@
             MostRecentDateReported,DiscontinuedDate, ChemicalCreatedAt, ChemicalUpdatedAt, ChemicalDateRemoved,ChemicalCount 
 ## Analysis
   An exploratry data analysis (EDA) was run for this data to understand the chemicals distribution in diffrent products categorys,
-  data cleaning was also preformd to get the best results [clean_data](https://drive.google.com/file/d/1oXLQX8-RVENhEzU2TCcPWurcceM1tUx3/view?usp=sharing).
+  data cleaning was also preformd to get the best results [clean_data](https://drive.google.com/file/d/1oXLQX8-RVENhEzU2TCcPWurcceM1tUx3/view?usp=sharing) and 
+  several questions were answered for better insight for the data.
 ## How to run
   Several libraries used in the project need to be installed befor running
 ## Dependencies
