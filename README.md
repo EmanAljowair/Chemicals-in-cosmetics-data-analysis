@@ -12,7 +12,7 @@
   data cleaning was also preformd to get the best results [clean data](https://drive.google.com/file/d/1oXLQX8-RVENhEzU2TCcPWurcceM1tUx3/view?usp=sharing) and 
   several questions were answered for better insight for the data.
 ## How to run
-  Several libraries used in the project need to be installed befor running
+  Two libraries used in the project need to be installed befor running `pandas` and `matplotlib`
 ## Dependencies
   - Python: Pandas,Matplotlib
   - jupyter notebook
